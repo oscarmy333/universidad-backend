@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springsimplespasos.universidad.universidadbackend.repositorios.AlumnoRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.786 s - in com.springsimplespasos.universidad.universidadbackend.repositorios.AlumnoRepositoryTest
